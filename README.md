@@ -1,2 +1,2 @@
 # Example
-Example project 
+Example project (Example contribution)
